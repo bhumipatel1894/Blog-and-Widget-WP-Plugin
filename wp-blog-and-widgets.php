@@ -1,13 +1,13 @@
 <?php
 /**
  * Plugin Name: WP Blog Widgets Designer
- * Plugin URL: 
+ * Plugin URL: https://github.com/bhumipatel1894/Blog-and-Widget-WP-Plugin
  * Text Domain: wp-blog-and-widgets
  * Domain Path: /languages/
  * Description: Display Blog on your website with list and in grid view. Also work with Gutenberg shortcode block.
  * Version: 2.6.3
  * Author: WP OnlineSupport
- * Author URI: 
+ * Author URI: https://github.com/bhumipatel1894
  * Contributors: Bhumi Patel
  * 
  * @package WP Blog and Widgets
